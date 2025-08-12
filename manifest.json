@@ -1,0 +1,207 @@
+[
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\Test\\UnitTest1.cs",
+    "LastWriteTimeUtc": "2025-08-02T15:41:18.4701665Z",
+    "Length": 6014
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\AssemblyInfo.cs",
+    "LastWriteTimeUtc": "2025-08-06T11:17:53.3573281Z",
+    "Length": 851
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\ParseCodeToToken.cs",
+    "LastWriteTimeUtc": "2025-08-06T13:58:41.0119823Z",
+    "Length": 9017
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\ParseConfig.cs",
+    "LastWriteTimeUtc": "2025-08-02T15:18:30.8321898Z",
+    "Length": 1020
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\TreeSitter.cs",
+    "LastWriteTimeUtc": "2025-08-02T15:39:02.4531109Z",
+    "Length": 975
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Exceptions\\InvalidSuffixException.cs",
+    "LastWriteTimeUtc": "2025-02-23T08:11:56.6227503Z",
+    "Length": 240
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Exceptions\\InvalidToken.cs",
+    "LastWriteTimeUtc": "2025-02-25T16:17:06.297442Z",
+    "Length": 263
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Exceptions\\RepeatColorAssignment.cs",
+    "LastWriteTimeUtc": "2025-03-12T11:26:05.441931Z",
+    "Length": 289
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\CapturesRecorder.cs",
+    "LastWriteTimeUtc": "2025-04-25T15:58:49.8073436Z",
+    "Length": 4328
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\FilterType.cs",
+    "LastWriteTimeUtc": "2025-02-24T07:10:43.7907781Z",
+    "Length": 105
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\ILanguage.cs",
+    "LastWriteTimeUtc": "2025-04-25T15:58:49.8083199Z",
+    "Length": 773
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\IParser.cs",
+    "LastWriteTimeUtc": "2025-08-02T16:28:59.2311934Z",
+    "Length": 537
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\IParserFile.cs",
+    "LastWriteTimeUtc": "2025-03-06T15:16:09.0740184Z",
+    "Length": 255
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\IQueryTree.cs",
+    "LastWriteTimeUtc": "2025-08-02T10:47:00.0632138Z",
+    "Length": 734
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\Language.cs",
+    "LastWriteTimeUtc": "2025-08-02T15:35:56.1095054Z",
+    "Length": 4419
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\Parser.cs",
+    "LastWriteTimeUtc": "2025-03-12T11:26:27.0660232Z",
+    "Length": 641
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\ParserEdit.cs",
+    "LastWriteTimeUtc": "2025-08-02T13:53:00.7059944Z",
+    "Length": 2149
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\ParserManager.cs",
+    "LastWriteTimeUtc": "2025-08-02T16:29:03.1947677Z",
+    "Length": 3603
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\ParserPooledObjectPolicy.cs",
+    "LastWriteTimeUtc": "2025-02-23T08:12:11.9464021Z",
+    "Length": 340
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\ParserTree.cs",
+    "LastWriteTimeUtc": "2025-02-28T11:34:22.4949664Z",
+    "Length": 1523
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\QueryTree.cs",
+    "LastWriteTimeUtc": "2025-08-02T11:03:00.7578178Z",
+    "Length": 6739
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\Token.cs",
+    "LastWriteTimeUtc": "2025-03-03T13:49:43.687991Z",
+    "Length": 1118
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Parser\\TreeSetterBind.cs",
+    "LastWriteTimeUtc": "2025-03-01T11:25:40.9257272Z",
+    "Length": 54814
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Scheduler\\IParseProcessor.cs",
+    "LastWriteTimeUtc": "2025-08-02T14:10:52.1926232Z",
+    "Length": 279
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Scheduler\\ParsingTask.cs",
+    "LastWriteTimeUtc": "2025-08-02T14:11:10.4882925Z",
+    "Length": 1488
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Scheduler\\TaskProcessor.cs",
+    "LastWriteTimeUtc": "2025-08-06T13:58:16.723774Z",
+    "Length": 4760
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Theme\\HighlightCode.cs",
+    "LastWriteTimeUtc": "2025-04-25T16:01:53.5868562Z",
+    "Length": 1838
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Theme\\IHighlight.cs",
+    "LastWriteTimeUtc": "2025-04-25T16:01:53.3640564Z",
+    "Length": 545
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Theme\\ITheme.cs",
+    "LastWriteTimeUtc": "2025-03-30T01:56:34.0693264Z",
+    "Length": 256
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Theme\\IThemeProvider.cs",
+    "LastWriteTimeUtc": "2025-03-30T06:45:38.0245104Z",
+    "Length": 570
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Theme\\ITokenProider.cs",
+    "LastWriteTimeUtc": "2025-03-05T06:33:19.1655897Z",
+    "Length": 123
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Theme\\StyleToken.cs",
+    "LastWriteTimeUtc": "2025-03-01T13:55:30.2536706Z",
+    "Length": 2053
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Theme\\StyleTokenCache.cs",
+    "LastWriteTimeUtc": "2025-02-26T10:06:02.2677994Z",
+    "Length": 4938
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Theme\\StyleTokenProvider.cs",
+    "LastWriteTimeUtc": "2025-08-02T15:38:39.7893295Z",
+    "Length": 3585
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Theme\\SyntaxThemeManager.cs",
+    "LastWriteTimeUtc": "2025-08-02T15:39:34.1084178Z",
+    "Length": 960
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Theme\\UnderLine.cs",
+    "LastWriteTimeUtc": "2025-02-26T10:09:59.4366203Z",
+    "Length": 159
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Utils\\Log.cs",
+    "LastWriteTimeUtc": "2025-08-02T13:54:21.0192594Z",
+    "Length": 1518
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Utils\\LogType.cs",
+    "LastWriteTimeUtc": "2025-02-26T06:20:59.1579551Z",
+    "Length": 100
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Utils\\ParserOption.cs",
+    "LastWriteTimeUtc": "2025-08-02T15:34:43.5003874Z",
+    "Length": 920
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Utils\\PathConvert.cs",
+    "LastWriteTimeUtc": "2025-08-06T11:26:53.6372324Z",
+    "Length": 1469
+  },
+  {
+    "FilePath": "D:\\Code\\Programs\\TreeSitterSharp\\TreeSitterSharp\\Utils\\SuffixTable.cs",
+    "LastWriteTimeUtc": "2025-08-02T16:29:28.2149547Z",
+    "Length": 3928
+  }
+]

@@ -1,0 +1,11 @@
+.git/
+.vs/
+/Test/bin
+/Test/obj
+/TreeSitterSharp/bin
+/TreeSitterSharp/obj
+*.dll
+.*
+*.sln
+*.csproj
+*.mdj
